@@ -1,0 +1,4 @@
+root: bundle
+pushstate: enabled
+location_include: includes/*.conf
+force_https: true
