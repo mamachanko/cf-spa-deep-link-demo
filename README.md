@@ -10,7 +10,7 @@ npm install # or yarn
 ./deploy.sh # assumes your logged into CF
 ```
 
-Now you can visit `/` and `/deep/link`, e.g. `https://spa-deep-link-demo.cfapps.io/deep/link`
+Now you can visit `/` and `/deep/link`, e.g. [`https://spa-deep-link-demo.cfapps.io/deep/link`](https://spa-deep-link-demo.cfapps.io/deep/link)
 
 # How it works
 The secret sauce is in how the Staticfile buildpack is configured via `./Staticfile` 
