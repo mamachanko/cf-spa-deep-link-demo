@@ -1,5 +1,5 @@
 applications:
-- name: staticfile-deep-link-demo
+- name: spa-deep-link-demo
   buildpacks:
   - staticfile_buildpack
   instances: 2
